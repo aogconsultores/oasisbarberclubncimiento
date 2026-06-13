@@ -23,7 +23,6 @@ oasis-web/
         └── color2.jpg      ← Galería: color artístico
 ```
 
-
 ## Links
 
 - Reservas: https://oasisbarberclub.setmore.com/
