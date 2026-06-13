@@ -23,12 +23,6 @@ oasis-web/
         └── color2.jpg      ← Galería: color artístico
 ```
 
-## Deploy en GitHub Pages
-
-1. Sube todos los archivos a un repositorio público
-2. Ve a **Settings → Pages**
-3. Source: `Deploy from branch` → `main` → `/ (root)`
-4. La web quedará en: `https://TU_USUARIO.github.io/NOMBRE_REPO`
 
 ## Links
 
